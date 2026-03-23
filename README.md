@@ -12,23 +12,25 @@
 
 ## 📦 项目列表
 
-| 图标 | 项目                                                   | 目录                         |    分类    |
-| :--: | ------------------------------------------------------ | ---------------------------- | :--------: |
-|  🎆  | [Canvas炫彩粒子系统](./canvas-particle-universe/)         | `canvas-particle-universe` | `canvas` |
-|  🎉  | [Hanphone&#39;s Congratulation](./congratulation/)        | `congratulation`           |  `节日`  |
-|  💬  | [和AI寒枫聊天](./hanphonechat/browser/)                   | `hanphonechat`             |   `ai`   |
-|  🎂  | [生日快乐！](./happy-birthday/)                           | `happy-birthday`           |  `节日`  |
-|  💌  | [来自寒枫的信](./letter/browser2/envelope.html)           | `letter`                   |  `爱情`  |
-|  🎰  | [Hanphone&#39;s Lottery](./lottery/)                      | `lottery`                  |  `游戏`  |
-|  🐾  | [可以成为我的恋人吗?](./love-chiikawa/)                   | `love-chiikawa`            |  `爱情`  |
-|  🔐  | [摩斯密码表白器](./love-guess-moss/)                      | `love-guess-moss`          |  `爱情`  |
-|  🌸  | [致晴樨](./love-memory/)                                  | `love-memory`              |  `爱情`  |
-|  📖  | [博客阅读器](./read/replicant/)                           | `read`                     |  `工具`  |
-|  📄  | [寒枫 - 个人简历](./resume/)                              | `resume`                   |  `工具`  |
-|  🎹  | [简易钢琴键盘](./simple-piano/)                           | `simple-piano`             |  `创意`  |
-|  ✅  | [高级待办应用](./todo/)                                   | `todo`                     |  `工具`  |
-|  🌀  | [WebGL 赛博核心展示Three.js Demo](./torus-knot-geometry/) | `torus-knot-geometry`      |  `创意`  |
-|  🎵  | [音频可视化播放器](./visual-player/)                      | `visual-player`            |  `创意`  |
+<!-- PROJECTS_TABLE_START -->
+| 图标 | 项目 | 目录 | 分类 |
+|:----:|------|------|:----:|
+| 🎆 | [Canvas炫彩粒子系统](./canvas-particle-universe/) | `canvas-particle-universe` | `canvas` |
+| 🎉 | [Hanphone's Congratulation](./congratulation/) | `congratulation` | `节日` |
+| 💬 | [和AI寒枫聊天](./hanphonechat/browser/) | `hanphonechat` | `ai` |
+| 🎂 | [生日快乐！](./happy-birthday/) | `happy-birthday` | `节日` |
+| 💌 | [来自寒枫的信](./letter/browser2/envelope.html) | `letter` | `爱情` |
+| 🎰 | [Hanphone's Lottery](./lottery/) | `lottery` | `游戏` |
+| 🐾 | [可以成为我的恋人吗?](./love-chiikawa/) | `love-chiikawa` | `爱情` |
+| 🔐 | [摩斯密码表白器](./love-guess-moss/) | `love-guess-moss` | `爱情` |
+| 🌸 | [致晴樨](./love-memory/) | `love-memory` | `爱情` |
+| 📖 | [博客阅读器](./read/replicant/) | `read` | `工具` |
+| 📄 | [寒枫 - 个人简历](./resume/) | `resume` | `工具` |
+| 🎹 | [简易钢琴键盘](./simple-piano/) | `simple-piano` | `创意` |
+| ✅ | [高级待办应用](./todo/) | `todo` | `工具` |
+| 🌀 | [WebGL 赛博核心展示 Three.js Demo](./torus-knot-geometry/)|  `torus-knot-geometry` | `3d` |
+| 🎵 | [音频可视化播放器](./visual-player/) | `visual-player` | `创意` |
+<!-- PROJECTS_TABLE_END -->
 
 > 💡 项目列表由 [`scripts/update-index.js`](scripts/update-index.js) 自动维护，push 到 `main` 后 GitHub Actions 会自动同步首页和本表格。
 
