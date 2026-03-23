@@ -42,3 +42,13 @@
 2. 放入 `index.html`，确保包含 `<title>项目名称</title>`
 3. （可选）在 [`scripts/update-index.js`](scripts/update-index.js) 的 `PROJECT_PRESETS` 中配置 emoji / 分类 / 颜色
 4. 运行 `node scripts/update-index.js`，或直接 push——Actions 会自动执行
+
+## Star History
+
+<a href="https://www.star-history.com/?repos=HanphoneJan%2Fhanphone-play&type=date&legend=top-left">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/image?repos=HanphoneJan/hanphone-play&type=date&theme=dark&legend=top-left" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/image?repos=HanphoneJan/hanphone-play&type=date&legend=top-left" />
+   <img alt="Star History Chart" src="https://api.star-history.com/image?repos=HanphoneJan/hanphone-play&type=date&legend=top-left" />
+ </picture>
+</a>
